@@ -42,7 +42,7 @@
         </tr>
       </tbody>
     </table>
-    <button @click="loadData">Adatok betöltése</button>
+    <button @click="loadData">Listázás</button>
   </div>
 </template>
 
